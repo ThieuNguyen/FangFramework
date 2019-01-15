@@ -1,0 +1,28 @@
+# SoapUI big files
+**/*_soapui-project.xml
+**/*-soapui-project.xml
+**/*-project.xml
+**/*_soapui-project.bak
+**/*.bak
+**/AccountDataSetUp.xml
+**/DDS6DataPopulation.xml
+#CommonFunction
+**/Common/CommonFunctions/Authentication.xml
+**/Common/CommonFunctions/ConvertIPAddToLong.xml
+**/Common/CommonFunctions/ConvertLongToIPAdd.xml
+**/Common/CommonFunctions/GenerateAuthenticationRequestHeader.xml
+**/Common/CommonFunctions/GetCurrentTimestamp.xml
+**/Common/CommonFunctions/GetDeviceId.xml
+**/Common/CommonFunctions/GetDeviceToken.xml
+**/Common/CommonFunctions/GetReportsIdsList.xml
+**/Common/CommonFunctions/RequestData_RandomDisplayName.xml
+**/Common/CommonFunctions/SetaccountIdaccountUidName.xml
+**/Common/CommonFunctions/SetFileTo64bitBinaryStingVar.xml
+**/Common/CommonFunctions/SetFileToBase64StringVar.xml
+**/Common/CommonFunctions/SetRandomName.xml
+**/Common/CommonFunctions/UpdateXmlAndSetTo64bitBinary.xml
+AnyScript/environment-files/~$DeviceStatus info.xlsx
+TestDistributionPercentageList.csv
+# GSS HDP zip file
+GoogleSyncService/HWRawData/HDP_Chrome_SNMD_Match.zip
+GoogleSyncService/HWRawData/chrome_hdc_payload.json
