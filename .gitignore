@@ -26,3 +26,26 @@ TestDistributionPercentageList.csv
 # GSS HDP zip file
 GoogleSyncService/HWRawData/HDP_Chrome_SNMD_Match.zip
 GoogleSyncService/HWRawData/chrome_hdc_payload.json
+database/sizeStorer.wt
+database/mongod.lock
+database/journal/WiredTigerPreplog.0000000002
+database/journal/WiredTigerPreplog.0000000001
+database/journal/WiredTigerLog.0000000001
+database/index-8-3900558447453635031.wt
+database/index-6-3900558447453635031.wt
+database/index-5-3900558447453635031.wt
+database/index-3-3900558447453635031.wt
+database/index-1-3900558447453635031.wt
+database/diagnostic.data/metrics.interim
+database/diagnostic.data/metrics.2019-01-26T15-27-39Z-00000
+database/collection-7-3900558447453635031.wt
+database/collection-4-3900558447453635031.wt
+database/collection-2-3900558447453635031.wt
+database/collection-0-3900558447453635031.wt
+database/_mdb_catalog.wt
+database/WiredTigerLAS.wt
+database/WiredTiger.wt
+database/WiredTiger.turtle
+database/WiredTiger.lock
+database/WiredTiger
+database/storage.bson
