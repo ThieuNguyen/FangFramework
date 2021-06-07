@@ -1,28 +1,33 @@
-# SoapUI big files
-**/*_soapui-project.xml
-**/*-soapui-project.xml
-**/*-project.xml
-**/*_soapui-project.bak
-**/*.bak
-**/AccountDataSetUp.xml
-**/DDS6DataPopulation.xml
-#CommonFunction
-**/Common/CommonFunctions/Authentication.xml
-**/Common/CommonFunctions/ConvertIPAddToLong.xml
-**/Common/CommonFunctions/ConvertLongToIPAdd.xml
-**/Common/CommonFunctions/GenerateAuthenticationRequestHeader.xml
-**/Common/CommonFunctions/GetCurrentTimestamp.xml
-**/Common/CommonFunctions/GetDeviceId.xml
-**/Common/CommonFunctions/GetDeviceToken.xml
-**/Common/CommonFunctions/GetReportsIdsList.xml
-**/Common/CommonFunctions/RequestData_RandomDisplayName.xml
-**/Common/CommonFunctions/SetaccountIdaccountUidName.xml
-**/Common/CommonFunctions/SetFileTo64bitBinaryStingVar.xml
-**/Common/CommonFunctions/SetFileToBase64StringVar.xml
-**/Common/CommonFunctions/SetRandomName.xml
-**/Common/CommonFunctions/UpdateXmlAndSetTo64bitBinary.xml
-AnyScript/environment-files/~$DeviceStatus info.xlsx
-TestDistributionPercentageList.csv
-# GSS HDP zip file
-GoogleSyncService/HWRawData/HDP_Chrome_SNMD_Match.zip
-GoogleSyncService/HWRawData/chrome_hdc_payload.json
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
