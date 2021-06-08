@@ -31,8 +31,7 @@ SIMPLE API TESTING
         "salary": 5000.0
     }
  
-###Error Response:
-
+### Error
 `404 NOT FOUND`
 `emplooyee is not exist`
   
@@ -60,7 +59,7 @@ Request Body
    }
 ```
 
-###Response: 
+### Response: 
 `HTTP/1.1 200 Created`
 
 ```{
@@ -81,7 +80,7 @@ Request Body
 
 `PUT /employee-webservice/`
 
-###Response: 
+### Response: 
 `HTTP/1.1 200 Updated`
 
 ```{
