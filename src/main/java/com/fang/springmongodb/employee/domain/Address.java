@@ -1,4 +1,4 @@
-package com.fang.springmongodb.practice.domain;
+package com.fang.springmongodb.employee.domain;
 
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Document;

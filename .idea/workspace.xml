@@ -3,10 +3,46 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:phuoc" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="15a23122-73f0-484e-9d3b-a92fa7d458a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/MongoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/MongoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/PracticeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/EmployeeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/repository/EmployeeRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/practice/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fang/springmongodb/employee/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fang/springmongodb/practice/PracticeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fang/springmongodb/employee/PracticeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fang/springmongodb/practice/test/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fang/springmongodb/employee/test/EmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +128,12 @@
       <module name="springmongodbdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fang.springmongodb.practice.test.*" />
+          <option name="PATTERN" value="com.fang.springmongodb.employee.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fang.springmongodb.practice.test" />
-      <option name="MAIN_CLASS_NAME" value="com.fang.springmongodb.practice.test.EmployeeTest" />
+      <option name="PACKAGE_NAME" value="com.fang.springmongodb.employee.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fang.springmongodb.employee.test.EmployeeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,12 +143,12 @@
       <module name="springmongodbdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fang.springmongodb.practice.test.*" />
+          <option name="PATTERN" value="com.fang.springmongodb.employee.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fang.springmongodb.practice.test" />
-      <option name="MAIN_CLASS_NAME" value="com.fang.springmongodb.practice.test.EmployeeTest" />
+      <option name="PACKAGE_NAME" value="com.fang.springmongodb.employee.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fang.springmongodb.employee.test.EmployeeTest" />
       <option name="METHOD_NAME" value="testEmployee" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -121,7 +157,7 @@
     </configuration>
     <configuration name="PracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springmongodbdemo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fang.springmongodb.practice.PracticeApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fang.springmongodb.employee.EmployeeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,18 +183,36 @@
       <workItem from="1622600133241" duration="556000" />
       <workItem from="1622777199072" duration="10078000" />
       <workItem from="1623057700050" duration="1419000" />
-      <workItem from="1623117715904" duration="59000" />
+      <workItem from="1623117715904" duration="966000" />
+      <workItem from="1623982890119" duration="2356000" />
+      <workItem from="1624244392669" duration="569000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1622365036510">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622365036510" />
+    <state x="2601" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623983042983">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2601" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1623983042983" />
     <state width="429" height="466" key="DebuggerActiveHint" timestamp="1622369683326">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -228,7 +282,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/fang/springmongodb/practice/test/EmployeeTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/fang/springmongodb/employee/test/EmployeeTest.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

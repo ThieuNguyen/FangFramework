@@ -1,6 +1,6 @@
-package com.fang.springmongodb.practice.repository;
+package com.fang.springmongodb.employee.repository;
 
-import com.fang.springmongodb.practice.domain.Employee;
+import com.fang.springmongodb.employee.domain.Employee;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoOperations;

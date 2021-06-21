@@ -1,4 +1,4 @@
-package com.fang.springmongodb.practice;
+package com.fang.springmongodb.employee;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;

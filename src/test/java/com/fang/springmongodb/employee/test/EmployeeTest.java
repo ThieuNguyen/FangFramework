@@ -1,7 +1,7 @@
-package com.fang.springmongodb.practice.test;
+package com.fang.springmongodb.employee.test;
 
-import com.fang.springmongodb.practice.domain.Address;
-import com.fang.springmongodb.practice.domain.Employee;
+import com.fang.springmongodb.employee.domain.Address;
+import com.fang.springmongodb.employee.domain.Employee;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;

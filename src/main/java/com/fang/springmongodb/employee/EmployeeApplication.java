@@ -1,13 +1,13 @@
-package com.fang.springmongodb.practice;
+package com.fang.springmongodb.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PracticeApplication {
+public class EmployeeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PracticeApplication.class, args);
+        SpringApplication.run(EmployeeApplication.class, args);
     }
 
 }
